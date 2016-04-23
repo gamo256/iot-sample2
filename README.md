@@ -1,2 +1,3 @@
-##–³—¿‚Å‚·IoTƒvƒ‰ƒbƒgƒtƒH[ƒ€-JavaScript•Î(Arduino/Raspberry Pi‘Î‰)ƒTƒ“ƒvƒ‹
+##iot-sample2
+ç„¡æ–™ã§è©¦ã™IoTãƒ—ãƒ©ãƒƒãƒˆãƒ•ã‚©ãƒ¼ãƒ -JavaScriptå(Arduino/Raspberry Piå¯¾å¿œ)ã‚µãƒ³ãƒ—ãƒ«
 
